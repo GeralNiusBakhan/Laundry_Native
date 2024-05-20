@@ -1,7 +1,10 @@
 <?php
-
+session_start();
 include 'db.php';
-
+if (!isset($_SESSION['username'])) {
+  header("Location: login.php");
+  exit();
+}
  ?>
 
 <!doctype html>
@@ -41,6 +44,9 @@ include 'db.php';
                     <li><a class="dropdown-item" href="bulan.php">Data Bulan Ini</a></li>
                     <li><a class="dropdown-item" href="tahun.php">Data Tahun Ini</a></li>
                   </ul>
+                  <li class="nav-item">
+                        <a class="nav-link" href="logout.php">Logout</a>
+                    </li>
                 </li>
               </ul>
             </div>

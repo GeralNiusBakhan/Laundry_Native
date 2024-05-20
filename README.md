@@ -9,8 +9,9 @@
 <p>-Redirect Hubungi Whatsapp Costumer</p>
 <p>-Menghapus Data Penjualan</p>
 <p>Melihat Secara Detail Data Costumer</p>
+<p>Login & Logout</p>
 
 <b>Cara Install:</b>
-<p>-Cukup Export File Sql Ke Server Kalian</p>
+<p>-Cukup Buat database lalu Import File Sql Ke Server Kalian</p>
 
 [![laundry1.png](https://i.postimg.cc/1zBRYmRS/laundry1.png)](https://postimg.cc/DWWKSKbp)
