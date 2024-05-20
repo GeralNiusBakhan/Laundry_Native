@@ -10,8 +10,10 @@
 <p>-Menghapus Data Penjualan</p>
 <p>Melihat Secara Detail Data Costumer</p>
 <p>Login & Logout</p>
+<p>add_user.php untuk membuat akun</p>
 
 <b>Cara Install:</b>
 <p>-Cukup Buat database lalu Import File Sql Ke Server Kalian</p>
+<p>-login: geral admin123</p>
 
 [![laundry1.png](https://i.postimg.cc/1zBRYmRS/laundry1.png)](https://postimg.cc/DWWKSKbp)
